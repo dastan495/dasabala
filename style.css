@@ -1,0 +1,177 @@
+body {
+  font-family: "Open Sans", sans-serif;
+  background: #ebe6e4;
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
+.container {
+  margin: auto;
+}
+.navbar {
+  display: flex;
+}
+.logo_1 {
+  width: 7%;
+  margin-left: 51px;
+  margin-top: -2px;
+}
+.head {
+  color: rgb(29, 26, 26);
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+  width: 47%;
+  margin-left: 33%;
+  margin-top: 32px;
+}
+.main {
+  background: #dfdfdf;
+  margin: auto;
+  width: 80%;
+  display: flex;
+}
+
+.photo {
+  width: 47%;
+}
+.the_right_bio {
+  display: flex;
+  margin-left: -27%;
+}
+.name {
+  font-family: 31px;
+}
+.web {
+  margin: 25px 0 0 146px;
+  font-size: 26px;
+}
+hr {
+  margin-top: 6%;
+  margin-left: 23%;
+  width: 54%;
+  /* height: -16px; */
+  position: absolute;
+}
+.main_2 {
+  font-size: 18px;
+  position: absolute;
+  display: flex;
+  margin: 82px 0 0 313px;
+}
+.the_right_info {
+  margin-left: 10%;
+  color: rgb(47, 128, 47);
+}
+
+.container_3 {
+  background: white;
+  margin: auto;
+  width: 80%;
+  /* display: flex; */
+}
+.box_kils {
+  display: flex;
+  padding: 35px 0px 7px 47px;
+}
+.the_left_skills {
+  font-size: 16px;
+  width: 48%;
+}
+.skills {
+  text-align: center;
+  margin: 90px 0 34px;
+}
+.skills_menu {
+  display: flex;
+  margin-left: 23px;
+  margin-top: -21px;
+}
+.menu_list {
+  padding-top: 19px;
+}
+
+.menu_list_1 {
+  padding-left: 255px;
+  margin-top: 41px;
+}
+.hr_2 {
+  margin-top: -9px;
+  margin-left: 3px;
+  width: 34%;
+}
+.hr_3 {
+  margin-left: 3px;
+  width: 10%;
+  margin-top: -7px;
+}
+.hr_4 {
+  margin-left: 3px;
+  margin-top: -6px;
+  width: 25%;
+}
+.hr_5 {
+  margin-left: 3px;
+  margin-top: -8px;
+  width: 9%;
+}
+.container_4 {
+  background: rgb(233, 220, 220);
+  margin-top: 30px;
+}
+.main_anton {
+  display: flex;
+  margin: auto;
+  width: 79%;
+}
+.anton_photo_2 {
+    width: 359%;
+    margin-left: -255%;
+}
+.anton{
+    width: 50%;
+    font-size: 16px;
+}
+.the_left_anton{
+    margin-top: 64px;
+}
+.container_5{
+    background: rgb(233, 220, 220);
+}
+.main_aidana{
+    display: flex;
+    margin: auto;
+    width: 80%;
+}
+.aidana_photo{
+    width: 71%;
+}
+.the_right_aidana{
+    width: 51%;
+    font-size: 16px;
+    margin-top: 51px;
+}
+footer{
+    margin-top: -6px;
+    padding-top: 90px;
+    background: rgb(212, 204, 204);
+}
+.the_end{
+    padding-top: 66px;
+    padding-left: 24%;
+    width: 80%;
+}
+.img_logo_end{
+    width: 6%;
+    padding-left: 109px;
+}
+.a_logo_end{
+    margin-left: -3%;
+}
+.text_end{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-size: 19px;
+}
